@@ -1,2 +1,2 @@
 # hello-world
-my first repository on github
+Hi.  I am learning to use Github, and interested in following the Redis topic.  
